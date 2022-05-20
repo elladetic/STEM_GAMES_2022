@@ -1,0 +1,9 @@
+KOMENTARI:
+
+Pokušale smo metodom s Projection Methods.
+
+U prvom smo zadatku imale ideju da imamo for petlju koja u i-toj iteraciji zamjenjuje i-ti stupac matrice V s i-tim kanonskim vektorom, tj 
+zamjenjuje i-ti element baze kosinusa s i-tim kanonskim vektorom. Takvoj matrici bismo i ortonormirali stupce. Onda bismo za svaku tako 
+dobivenu aproksimaciju x_i promatrali gdje je najveća razlika između i-tog elementa x-a aproksimiranog s projection methods gdje za bazu 
+imamo samo kosinuse i i-tog elementa x-a aprox s ovakvom modificiranom bazom. Tamo gdje je razlika najveća, rekli bismo da imamo skok.
+
